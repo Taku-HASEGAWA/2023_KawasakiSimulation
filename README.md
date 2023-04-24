@@ -8,4 +8,4 @@ Codes in this repository were created in the "Simulation Practicum" conducted by
 
 The repository for the classes is available at https://github.com/TakeshiKawasaki/2023-simulation-training/tree/main.
 
-授業のレポジトリは、https://github.com/TakeshiKawasaki/2023-simulation-training/tree/mainである。
+授業のレポジトリは、https://github.com/TakeshiKawasaki/2023-simulation-training/tree/main である。
