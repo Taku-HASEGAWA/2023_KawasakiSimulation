@@ -43,6 +43,7 @@ int NumCalc(long double t_reso){
     //    std::cout << std::setprecision(32) << i*delta_t_tilde << "\t" << v_tilde << "\t" << exact_v_tilde << "\t" << abs(v_tilde-exact_v_tilde) << std::endl;;
     file << std::setprecision(32) << i*delta_t_tilde << "\t" << v_tilde << "\t" << exact_v_tilde << "\t" << abs(v_tilde-exact_v_tilde) << std::endl;;
   }
+  file.close();
   return 0;
 }
 
